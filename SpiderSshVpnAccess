@@ -1,0 +1,11 @@
+{
+    "Message": "This app blocked by developer! Contact: Fixbuild!",
+    "app.fixbuild.vpncore.spidersshvpn": {
+        "isDestroy": false,
+        "isCheck": true,
+        "cBlockApi": "QyMofn+DpMnx8rle3Hl9xvFpZWvmvx4uLD51OKkl9SxvJgtFYZHr+h0MfODf25XA8vix+w==",
+        "cBlockGet": "duiJbjt00gMsmu5K8bQ9SBhiyGv2YaEhhc0XEYkxijdaV9gtLkxEvFyXW13Qu6CMwn4XSLnume9nw45t6xOVTA==",
+        "cBlockPost": "AGhMb59R3BEOrYG1xx1moV40Y8PiM+gX5syjiuZdGkSCCdu5kczgDg6rKuu2JH2Y",
+        "cBlockNotice": "XqrQS5LJLbe7oNBDrKSPu49Uk2GMU+xSNV8DzWBksnQTBGIjE81Nxh3qSoZQhbboApUi2wg8EjQEb8PdwOMHVPhw3QHxbIgM21u+r9joG1lYKLWcG/U4nDkxhhzG1RnzGRTDHw=="
+    }
+}
