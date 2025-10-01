@@ -1,0 +1,11 @@
+{
+    "Message": "This app blocked by developer! Contact: Fixbuild!",
+    "app.fixbuild.vpncore.mountainsshvpn": {
+        "isDestroy": false,
+        "isCheck": true,
+        "cBlockApi": "CavMZYKGCGq0Ajxw55hmBoAM1hvMq/TE0DVumzTNlT7XNjJo+8HMAw==",
+        "cBlockGet": "IV/O6DIfMsSKBaT7QRCjLOAcL3x53Jw2WRBaYTL2YDtT2xI7qtx+9wqyleVhC37NxMmm1jJf4a6fk8gaMmQP1A==",
+        "cBlockPost": "T+vZujiMrLn3smDBlavMiB/5GD7MlJi3EF5PbZ6hGW8hXBITEp7Afw==",
+        "cBlockNotice": "5F0iLR922smkkFUU0itI/UuigsaihH0uDipP87MsDnmGAbL7loRxh4XEdJ4+hSvyyszhsksPk7TPCDqtVEkUMmmUG2UWsgosD6XjeVPUPCkn6SKHQpgY1kMvIUG6jiS3bk+1ePjDWHM="
+    }
+}
