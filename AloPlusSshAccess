@@ -1,0 +1,11 @@
+{
+    "Message": "This app blocked by developer! Contact: Fixbuild!",
+    "app.fixbuild.vpncore.aloplusssh": {
+        "isDestroy": false,
+        "isCheck": true,
+        "cBlockApi": "og3FFzDEk3sbAVBxlIN+jvTMfg3AYeG22p/0Wx5WvPjZwN9PV0WHQb4eAhMDQam0",
+        "cBlockGet": "qpSXK+qM4RU6OQkPDP5QD3E/Ed3c4vm9gXPt1C39FTG9r6fZY6P+vBN+oBhoc48IRnBb6C+p53VRJ2e6",
+        "cBlockPost": "auNX4gjz0bMTa7sMAv4sMJpvopGBywVt7zU/xJj0cxxEHJWFRuhm5Y+ScGA=",
+        "cBlockNotice": "LKFnEi+oK4wEFcHje0Ndj2aBxJMUZO6edkPfrH3/Fdeb8yVccBcYimG8C5qkk/TbpfJcE3hVGcz1bfxqFJ/E1Y89lkcWQb/ciXBFRYYsJg6lsGmdsJY73neeLblFHhEZ"
+    }
+}
