@@ -1,0 +1,11 @@
+{
+    "Message": "This app blocked by developer! Contact: Fixbuild!",
+    "app.fixbuild.vpncore.shawonssh": {
+        "isDestroy": false,
+        "isCheck": true,
+        "cBlockApi": "sg+fG1c2MMlsrW11rKVkOi0ZIkzC6zoXZ5Rvz8uV2d2Bj6PwvoQOCvxETwVFvoWA6VvEQQ==",
+        "cBlockGet": "fxfPTNAqwMXVVIYsI/kvoCx3ynIc9fKiBs9g6dA2aUmdF6YSYZWPAPQ/FGn1x9g/bGkrLicouznHx+VeqzCbog==",
+        "cBlockPost": "4PdLn0GBsJMMn1MUcoSlmhCef34yKBwEPDd9otM/Ofi8wEOgRrDAwv9gXP6AJO1T",
+        "cBlockNotice": "uo2brFTg4y1JE7w5OKM1jJyDNelHourAd4yuufrP80IFQMSuQPLWqcLKqyBDUyq4VFIgMr/JIg0bvkzcpUzxWiS/5Kork5Sa0bp4xuE/F3hc+8+9pMzMUH3a78mCpOIp"
+    }
+}
