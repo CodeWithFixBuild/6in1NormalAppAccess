@@ -1,0 +1,11 @@
+{
+    "Message": "This app blocked by developer! Contact: Fixbuild!",
+    "app.fixbuild.vpncore.rhtunnelssh": {
+        "isDestroy": false,
+        "isCheck": true,
+        "cBlockApi": "AWi6ortlp81IpQNBwuU0ODVtPYDZCuTHN3KnviZb/xmTOwY1mtBvnKtjQhM=",
+        "cBlockGet": "89LQUHoXYTWw00tzWXyxVKezTCWOoTHDaDQo/vqjMWxp4ZR70FQWdQvtMsrzDsFNPYPO+SZ0bcN/pJRXncThMMVsG0Un4f+6",
+        "cBlockPost": "1OCB9Lh2Ga2ffJRFGTEQw+Bu1WjOr8D4c76P66FtqTQBAsikH7vD/rsMnaQynni7",
+        "cBlockNotice": "2GN8oO5flnwx7Eh54P0SDZ/uJwcQZvyDVCwkq2hZ5MWirVOqv1BOlsPZBUAlO9+bNnjIP0iVmZmrgjaqyMyDPZI3sr6dSfw7tu1YyPwZMvw7ZUmcwHvJWYqJ6gTYKbrHd5AbiA=="
+    }
+}
